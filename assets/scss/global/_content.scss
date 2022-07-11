@@ -100,12 +100,13 @@
     height: auto;
 
     .subtitulo-productos {
-        font-size: 4rem;
+        background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1));
         color: rgb(77, 29, 61);
-        text-align: center;
-        padding: 5rem 0 3rem 0;
         font-family:cursive;
+        font-size: 4rem;
         font-weight: bold;
+        padding: 4rem 0 4rem 0;
+        text-align: center;
 
         .sub-i {
             font-size: 3rem;
